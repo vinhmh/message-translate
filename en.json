@@ -1,0 +1,21 @@
+{
+  "email_already_taken": "Email already taken.",
+  "user_not_found": "User not found.",
+  "send_magic_login_success": "Email successfully sent.",
+  "verify_magic_login_success": "Magic login verified successfully",
+  "user_settings_not_found": "User settings not found",
+  "token_create_bad_request": "Token creation failed due to a bad request",
+  "upload_s3_failed": "S3 upload failed",
+  "create_subscription_property_success": "Create subscription property successfully",
+  "update_subscription_property_success": "Update subscription property successfully",
+  "subscription_properties_existed": "Subscription property already existed",
+  "index_existed": "Order number already existed",
+  "subscription_properties_not_found": "Subscription property notfound",
+  "create_subscription_success": "Create subscription successfully",
+  "update_subscription_success": "Update subscription successfully",
+  "subscription_existed": "Subscription already existed",
+  "subscription_not_found": "Subscription notfound",
+  "create_admin_success": "Create admin successfully",
+  "update_admin_success": "Update admin successfully",
+  "admin_not_found": "Admin notfound"
+}
